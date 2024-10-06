@@ -1,0 +1,11 @@
+name: DupeDetect
+version: '1.0'
+main: dev.nedhuman.dupeDetect.DupeDetect
+api-version: '1.20'
+author: NedHuman
+description: Minecraft plugin to aid in detecting duping
+permissions:
+  dupedetect.bypass:
+    description: Bypass the detection of duping
+  dupedetect.notify:
+    description: Be notified about potential dupers

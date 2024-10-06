@@ -1,0 +1,43 @@
+# DupeDetect
+# by NedHuman
+
+# Should the periodical checker be enabled?
+periodical-checker: true
+# How often (seconds) to check for duplicate items?
+checker-delay: 5
+
+# Should the checker run upon inventory open?
+on-inventory-open-check: true
+
+# These players will bypass the DupeDetect checker
+bypass-players:
+  - Notch
+
+# Should dupe detections be relayed to discord? If yes, the webhook URL
+discord-relay: false
+discord-webhook: a
+
+# Should we ignore duplicate items if the player is in creative mode?
+dont-notify-if-creative: false
+
+# Which items should have assigned IDs, and be checked for duplicates
+# Note: if you try to assign IDs to stackable items (for example diamonds), each item will become non-stackable
+# and it'll be very annoying
+detect-items:
+  - SHULKER_BOX
+  - WHITE_SHULKER_BOX
+  - ORANGE_SHULKER_BOX
+  - MAGENTA_SHULKER_BOX
+  - LIGHT_BLUE_SHULKER_BOX
+  - YELLOW_SHULKER_BOX
+  - LIME_SHULKER_BOX
+  - PINK_SHULKER_BOX
+  - GRAY_SHULKER_BOX
+  - LIGHT_GRAY_SHULKER_BOX
+  - CYAN_SHULKER_BOX
+  - PURPLE_SHULKER_BOX
+  - BLUE_SHULKER_BOX
+  - BROWN_SHULKER_BOX
+  - GREEN_SHULKER_BOX
+  - RED_SHULKER_BOX
+  - BLACK_SHULKER_BOX
