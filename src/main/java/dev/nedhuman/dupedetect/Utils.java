@@ -1,4 +1,4 @@
-package dev.nedhuman.dupeDetect;
+package dev.nedhuman.dupedetect;
 
 import net.md_5.bungee.api.chat.HoverEvent;
 import net.md_5.bungee.api.chat.TextComponent;

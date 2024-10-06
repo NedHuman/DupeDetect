@@ -1,4 +1,4 @@
-package dev.nedhuman.dupeDetect;
+package dev.nedhuman.dupedetect;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.awt.*;

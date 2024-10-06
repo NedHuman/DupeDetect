@@ -1,7 +1,7 @@
-package dev.nedhuman.dupeDetect.listener;
+package dev.nedhuman.dupedetect.listener;
 
-import dev.nedhuman.dupeDetect.DupeDetect;
-import dev.nedhuman.dupeDetect.Utils;
+import dev.nedhuman.dupedetect.DupeDetect;
+import dev.nedhuman.dupedetect.Utils;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.inventory.InventoryClickEvent;

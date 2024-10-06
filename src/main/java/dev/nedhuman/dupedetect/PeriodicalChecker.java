@@ -1,4 +1,4 @@
-package dev.nedhuman.dupeDetect;
+package dev.nedhuman.dupedetect;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

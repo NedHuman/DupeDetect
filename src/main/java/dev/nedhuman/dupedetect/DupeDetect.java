@@ -1,7 +1,7 @@
-package dev.nedhuman.dupeDetect;
+package dev.nedhuman.dupedetect;
 
-import dev.nedhuman.dupeDetect.listener.InventoryClickListener;
-import dev.nedhuman.dupeDetect.listener.InventoryOpenListener;
+import dev.nedhuman.dupedetect.listener.InventoryClickListener;
+import dev.nedhuman.dupedetect.listener.InventoryOpenListener;
 import org.bukkit.Material;
 import org.bukkit.plugin.java.JavaPlugin;
 
