@@ -1,6 +1,6 @@
 name: DupeDetect
 version: '1.0'
-main: dev.nedhuman.dupeDetect.DupeDetect
+main: dev.nedhuman.dupedetect.DupeDetect
 api-version: '1.20'
 author: NedHuman
 description: Minecraft plugin to aid in detecting duping
