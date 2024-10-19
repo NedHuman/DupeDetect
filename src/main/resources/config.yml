@@ -20,6 +20,12 @@ discord-webhook: a
 # Should we ignore duplicate items if the player is in creative mode?
 dont-notify-if-creative: false
 
+# If the item's ID should persist between block placements (only works for blockentities like shulkers etc)
+persist-over-place: true
+
+# Don't send a new chat message for every alert, instead send a message every 10 alerts.
+anti-spam: true
+
 # Which items should have assigned IDs, and be checked for duplicates
 # Note: if you try to assign IDs to stackable items (for example diamonds), each item will become non-stackable
 # and it'll be very annoying

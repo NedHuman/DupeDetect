@@ -1,5 +1,5 @@
 name: DupeDetect
-version: '1.0'
+version: '2.0'
 main: dev.nedhuman.dupedetect.DupeDetect
 api-version: '1.20'
 author: NedHuman
@@ -9,3 +9,9 @@ permissions:
     description: Bypass the detection of duping
   dupedetect.notify:
     description: Be notified about potential dupers
+  dupedetect.getcopy:
+    description: Receive a copy of a duped item
+commands:
+  dupedetect:
+    description: Access the DupeDetect menu
+    permission: dupedetect.menu
