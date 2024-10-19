@@ -6,6 +6,14 @@ This plugin does not magically solve all duping, it only helps with the detectio
 
 Note: Don't use this plugin if your server involves mechanics which duplicate items, it will create false-positives.
 
+## Features
+* Assigns a unique ID to certain items
+* Staff are notified in chat about duplicate items found
+* A GUI to see the most recent dupe alerts
+* An API for developers
+
 ## Permissions:
 - dupedetect.notify - be notified about duplicate items found
 - dupedetect.bypass - bypass the duplicate item checker
+- dupedetect.getcopy - receive a copy of a duped item
+- dupedetect.menu - access the dupedetect menu
