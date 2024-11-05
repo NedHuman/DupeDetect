@@ -17,3 +17,6 @@ Note: Don't use this plugin if your server involves mechanics which duplicate it
 - dupedetect.bypass - bypass the duplicate item checker
 - dupedetect.getcopy - receive a copy of a duped item
 - dupedetect.menu - access the dupedetect menu
+
+## Spigot Page
+https://www.spigotmc.org/resources/dupedetect.120053/
